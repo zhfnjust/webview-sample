@@ -1,0 +1,14 @@
+out
+node_modules
+.vscode-test
+*.vsix
+**/tsconfig.tsbuildinfo
+tests_workspace/*
+!tests_workspace/.keep
+storages
+**/coverage
+**/.nyc_output
+test-resources/*
+!test-resources/.keep
+tmp/*
+
